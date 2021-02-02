@@ -6,7 +6,11 @@ public with sharing class CheckPWD {
                     if (true) {
                         if (true) {
                             for(Integer i = 1; i<=100; i++){
+
+                                
                                 Account a = [Select Id from Account];
+
+
                             }
                         }
                     }
